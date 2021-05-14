@@ -1,5 +1,5 @@
 -- init
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/supercellgamer/BuildABoatGUI/main/Veynx%20UI%20Library.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/supercellgamer/Main/main/Veynx%20UI%20Library.lua"))()
 local venyx = library.new("Venyx", 5013109572)
  
 -- themes
